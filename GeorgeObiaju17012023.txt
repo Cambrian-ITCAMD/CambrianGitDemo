@@ -1,0 +1,3 @@
+My name is George Obiaju and the date is 17th January 2023. My favourite 
+animal is dog and I look forward to learn how to use kotlin in mobile app 
+development
