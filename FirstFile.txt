@@ -119,3 +119,9 @@ Hi, my name is Khadija and I am looking to become a full stack mobile applicatio
 # Hey, My name is Shivam Bajaj, the Date is 18th September, 2022. 
 My favourite is Cat.
 I am looking forward to learn exciting things in the field of mobile applications this semester which in turn will help me in enhance my technical skills and give much exposure to Software World.
+
+
+#Hello!
+#My name is Aditi Bhatt. 
+#My favorite animal is Dog. As we go through this subject, I would really like to learn more stuff and clear my basics for the web application development.
+#Created on - 19/01/2023
